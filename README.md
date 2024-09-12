@@ -21,4 +21,4 @@ A React Native app that calculates your age based on your year of birth.
    ```bash
    npx expo start
 ```
-<img scr="https://github.com/Riadhcoding/getAge/blob/main/assets/screen.png" >
+
