@@ -1,15 +1,16 @@
 # getAge
-react native app to get your age from year of birth
 
+A React Native app that calculates your age based on your year of birth.
 
-1 - download source and open inside vscode
+## Setup Instructions
 
-2 - run this command in terminal 
+1. **Download the Source Code**
 
-# npm install
+   Download the source code and open the project directory in [Visual Studio Code (VS Code)](https://code.visualstudio.com/).
 
-3 - run your app in web or android or ios 
+2. **Install Dependencies**
 
+   Open a terminal in VS Code and run the following command to install the required dependencies:
 
-# npx expo start
-
+   ```bash
+   npm install
